@@ -1,6 +1,12 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"田博客",
+    "subTitle":"\n",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "homeurl":"https://kongzhongtitians.github.io",
+    "startSite":"08/12/2026",
+    "i18n":"CN",
+    "UTC":8,
+    "singlePage":["about","link","Homepage"],
+    "exlink":{"Homepage":"https://kongzhongtitians.github.io"}
 }
