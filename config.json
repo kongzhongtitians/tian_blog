@@ -5,6 +5,7 @@
     "GMEEK_VERSION":"last",
     "homeurl":"https://kongzhongtitians.github.io",
     "startSite":"08/12/2026",
+    "needComment":1,
     "i18n":"CN",
     "UTC":8,
     "singlePage":["link"],
